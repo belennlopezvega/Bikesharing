@@ -6,6 +6,8 @@ In this statistical analysis we will be going over data from the CitiBike Sharin
 ### Purpose
 The purpose of this analysis is to visually share the results with investors in order to secure the capital needed to start a bikesharing business in Des Moines, and demonstrate how it could work.
 
+The link to the Tableau Story on the below information is:
+[link to dashboard](https://public.tableau.com/app/profile/belen.lopez.vega/viz/NYCCitiBikeStory_16487673772590/NYCCitiBikeStory?publish=yes)
 
 ## Results
 Below are the findings that the data shows in visual form. 
@@ -21,28 +23,28 @@ According to the above image, out of the 2.3 million total customers, more than 
 Moving on to the gender of users and weekday usage, out of the subscribers there are more male than female users. There are also more male one-time customers but the difference isn't as significant as it is with the subscribers group. For both genders there is also more bike usage during the week versus weekends, where as with the one-time customers group Saturday tends to see the most usage. 
 
 #### Trips by Weekday and by Gender for Each Hour
-[This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Trips_by_Weekday_for_Each_Hour.png)
+![This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Trips_by_Weekday_for_Each_Hour.png)
 
-[This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Trips_by_Gender(Weekday_per_Hour).png)
+![This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Trips_by_Gender(Weekday_per_Hour).png)
 
 Looking at first image, Trips by Weekday for Each Hour, Monday - Friday sees a peak at 8:00 am and between 5:00 pm - 7:00 pm. This can correlate to morning and evening commutes to and from work. During weekends there is consistent usage between 11:00 am - 5:00 pm. 
 
 Looking at the second image, Trips by Gender (Weekday per Hour), we see a similar trend on weekdays and weekends, with the exception of mostly male usage throughout the entire week.
 
 #### Checkout Times for Users and by Gender
-[This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Checkout_Times_for_Users.png)
+![This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Checkout_Times_for_Users.png)
 
-[This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Checkout_Times_by_Gender.png)
+![This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Checkout_Times_by_Gender.png)
 
 Looking at both images,  we can confirm that there are more males using the CitiBikes. Furthermore, we can see that the bikes are primarily used for short periods of time, with the peak being at 5 minutes. This can correlate with quick commutes to and from work, or quick city errands. The same 5 minute peak is also seen in female users. 
 
 #### Top Starting Locations
-[This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Top_Starting_Locations.png)
+![This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Top_Starting_Locations.png)
 
 In New York City, we see that the top starting location is based around Manhattan which can be a touristy area. In addition, there are a lot of businesses in that area which can have an effect on why bike usage seems to be common there. 
 
 #### Average Trip Duration
-[This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Average_Trip_Duration.png)
+![This is an image](https://github.com/belennlopezvega/Bikesharing/blob/main/Average_Trip_Duration.png)
 
 In this last visual, we can see those born in the Millennial generation have consistently higher trip duration than other generations. However, there is an outlier with those born in 1970 that show the overall highest trip duration by a significant amount. 
 
